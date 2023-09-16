@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "LMODroid-Devices/device_zuk_msm8996-common",
+    "target_path": "device/zuk/msm8996-common"
+  }
+]
